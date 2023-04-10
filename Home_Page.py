@@ -4,8 +4,8 @@ import os
 import datetime
 import streamlit as st
 from PIL import Image
-from streamlit_option_menu import option_menu
-from streamlit.components.v1 import iframe
+# from streamlit_option_menu import option_menu
+# from streamlit.components.v1 import iframe
 # st.markdown('#Home Page')
 
 
