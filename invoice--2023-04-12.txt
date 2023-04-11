@@ -1,0 +1,16 @@
+
+                *********************  PERPUS PROA DIGITALENT  **********************
+                ************ Sistem Peminjaman Buku Perpustakaan Digital ************
+                ************************ Invoice Peminjaman *************************
+                
+			Tanggal :  12 - 4 - 2023
+			Nama Peminjam Buku :  
+			Judul Buku :  
+			Tanggal Peminjaman :  2023-04-12
+			Tanggal Deadline :  2023-04-12
+			Tanggal Kembali :  2023 - 4 - 12
+			Denda :  0  Rupiah
+
+                        ---Terima Kasih Telah Meminjam Buku Ditempat Kami---
+                                            ---LUNAS---
+                

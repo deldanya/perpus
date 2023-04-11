@@ -1,0 +1,14 @@
+
+                    *********************  PERPUS PROA DIGITALENT  **********************
+                    ************ Sistem Peminjaman Buku Perpustakaan Digital ************
+                    ************************ Struk Bukti Pinjam *************************
+                    
+			Tanggal :  2023-04-12
+			Nama Peminjam Buku :  wkwk
+			Judul Buku :  1984 by George Orwell
+			Tanggal Peminjaman :  2023-04-12
+			Tanggal Kembali :  2023-04-19
+
+                            ---Terima Kasih Telah Meminjam Buku Ditempat Kami---
+                            ---Struk Harap Dibawa pada saat pengembalian Buku---
+                    

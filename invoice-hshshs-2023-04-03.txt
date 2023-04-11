@@ -1,0 +1,16 @@
+
+                *********************  PERPUS PROA DIGITALENT  **********************
+                ************ Sistem Peminjaman Buku Perpustakaan Digital ************
+                ************************ Invoice Peminjaman *************************
+                
+			Tanggal :  12 - 4 - 2023
+			Nama Peminjam Buku :  hshshs
+			Judul Buku :  Little Women by Lousia May Alcott
+			Tanggal Peminjaman :  2023-04-03
+			Tanggal Deadline :  2023-04-20
+			Tanggal Kembali :  2023 - 4 - 12
+			Denda :  0
+
+                        ---Terima Kasih Telah Meminjam Buku Ditempat Kami---
+                                            ---LUNAS---
+                

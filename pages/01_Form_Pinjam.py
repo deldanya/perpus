@@ -4,14 +4,11 @@ import os
 import datetime
 import streamlit as st
 
-# from streamlit_option_menu import option_menu
-# from streamlit.components.v1 import iframe
-
 st.set_page_config(page_title="Menu Peminjaman Buku", page_icon="📖", layout="centered")
 
 arynama,aryjudul,arytglpinjam,arytglkembali = [],[],[],[]
 st.empty()
-st.title("📖Menu Peminjaman Buku")
+st.title("📖 Menu Peminjaman Buku")
 st.write("Silahkan Masukkan Data Diri Anda")
 form1 = st.form(key="annotation1",clear_on_submit=True)
     
@@ -19,7 +16,7 @@ form1 = st.form(key="annotation1",clear_on_submit=True)
 with form1:
         cols = st.columns((1,1))
         nama = cols[0].text_input("Nama Lengkap :")
-        judul = cols[1].selectbox('Pilih Judul Buku',('','The Great Gatsby by F. Scott Fitzgerald','To Kill a Mockingbird by Harper Lee','1984 by George Orwell','Pride and Prejudice by Jane Austen','The Catcher in the Rye by J.D. Salinger','Little Women by Lousia May Alcott','Poor Dad Rich Dad by Robert T. Kiyosaki'))
+        judul = cols[1].selectbox('Pilih Judul Buku',('','The Great Gatsby by F. Scott Fitzgerald','To Kill a Mockingbird by Harper Lee','1984 by George Orwell','Pride and Prejudice by Jane Austen','The Catcher in the Rye by J.D. Salinger','Little Women by Lousia May Alcott','Poor Dad Rich Dad by Robert T. Kiyosaki','Atomic Habits by James Clear','Moby Dick by Herman Melvile','Sapiens by Yuval Noah Harari'))
         cols = st.columns(2)
         tglpinjam = cols[0].date_input("Tanggal Peminjaman :")
         tglkembali = cols[1].date_input("Tanggal Kembali :")
@@ -39,7 +36,7 @@ with form1:
                     ************ Sistem Peminjaman Buku Perpustakaan Digital ************
                     ************************ Struk Bukti Pinjam *************************
                     ''')
-                print('\t\t\tTanggal : ',tglpinjam,"2023")
+                print('\t\t\tTanggal : ',tglpinjam)
                 print("\t\t\tNama Peminjam Buku : ",nama)
                 print("\t\t\tJudul Buku : ",judul)
                 print("\t\t\tTanggal Peminjaman : ",tglpinjam)
