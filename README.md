@@ -22,7 +22,7 @@ Berikut Diagramm Flowchart Aplikasi :
 
 📚 Home Page - Menampilkan buku yang tersedia dan jumlahnya
 
-![alt text](https://raw.githubusercontent.com/deldanya/perpus/hasil/homepage.png)
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/homepage.png)
 
 📖 Menu Form Pinjam Buku - User akan diminta untuk memasukkan nama, judul buku, tanggal pinjam, dan rencana tanggal kembali kemudian mencetak struk peminjaman 
 
