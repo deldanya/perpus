@@ -4,12 +4,12 @@
                 ************************ Invoice Peminjaman *************************
                 
 			Tanggal :  12 - 4 - 2023
-			Nama Peminjam Buku :  mmk
-			Judul Buku :  The Catcher in the Rye by J.D. Salinger
-			Tanggal Peminjaman :  2023-04-09
-			Tanggal Deadline :  2023-04-10
+			Nama Peminjam Buku :  wkwk
+			Judul Buku :  Pride and Prejudice by Jane Austen
+			Tanggal Peminjaman :  2023-04-03
+			Tanggal Deadline :  2023-04-06
 			Tanggal Kembali :  2023 - 4 - 12
-			Denda :  10000  Rupiah
+			Denda :  30000  Rupiah
 
                         ---Terima Kasih Telah Meminjam Buku Ditempat Kami---
                                             ---LUNAS---
