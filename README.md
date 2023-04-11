@@ -14,9 +14,11 @@ Adapun fitur yang saya gunakan pada aplikasi ini yaitu :
   - Time Sleep
   - GUI Streamlit
 
-Berikut Diagramm Flowchart Aplikasi :
+Berikut Diagram Flowchart Aplikasi :
 
 ![alt text]()
+
+
 
 📷 Screenshot Aplikasi 📷
 
@@ -26,33 +28,38 @@ Berikut Diagramm Flowchart Aplikasi :
 
 📖 Menu Form Pinjam Buku - User akan diminta untuk memasukkan nama, judul buku, tanggal pinjam, dan rencana tanggal kembali kemudian mencetak struk peminjaman 
 
-![alt text]()
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/formpinjam.png)
 
 📖 Struk bukti peminjaman buku - Struk berbentuk .txt akan muncul secara otomatis dengan pop-up
 
-![alt text]()
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/berhasil.png)
+
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/strukpinjam.png)
 
 📄 Menu Form Pengembalian Buku - User akan diminta untuk memasukkan nama, judul buku, dan tanggal deadline pengembalian buku dan akan muncul apakah user mengembalikan tepat waktu atau tidak - ketika tidak tepat waktu maka akan muncul banyaknya hari keterlambatan dan banyaknya denda yang dibayarkan yaitu sebesar 5.000 rupiah per harinya
 
-![alt text]()
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/formkembali.png)
 
 📄 Contoh mengembalikan tepat waktu
 
-![alt text]()
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/tanpadenda.png)
 
 📄 Contoh mengembalikan terlambat
 
-![alt text]()
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/denda.png)
 
 🧾 Menu Cetak Invoice - User akan diminta memasukkan nama, judul buku, tanggal peminjaman, dan tanggal deadline kemudian mencetak invoice peminjaman
 
-![alt text]()
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/forminvoice.png)
+
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/invoiceberhasil.png)
+
 
 🧾 Invoice peminjaman buku - Invoice berbentuk .txt akan muncul secara otomatis dengan pop-up dimana juga menampilkan banyak denda yang harus dibayarkan user apabila terlambat mengembalikan buku
 
-![alt text]()
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/invoice.png)
 
 📌 Menu Peraturan Perpustakaan - Menampilkan peraturan perpustakaan yang harus ditaati oleh para peminjam buku
 
-![alt text]()
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/peraturan.png)
  
