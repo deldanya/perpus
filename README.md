@@ -52,10 +52,9 @@ Berikut Diagram Flowchart Aplikasi :
 
 ![alt text](https://github.com/deldanya/perpus/blob/main/hasil/forminvoice.png)
 
-![alt text](https://github.com/deldanya/perpus/blob/main/hasil/invoiceberhasil.png)
-
-
 🧾 Invoice peminjaman buku - Invoice berbentuk .txt akan muncul secara otomatis dengan pop-up dimana juga menampilkan banyak denda yang harus dibayarkan user apabila terlambat mengembalikan buku
+
+![alt text](https://github.com/deldanya/perpus/blob/main/hasil/invoiceberhasil.png)
 
 ![alt text](https://github.com/deldanya/perpus/blob/main/hasil/invoice.png)
 
