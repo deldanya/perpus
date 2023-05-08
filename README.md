@@ -1,7 +1,5 @@
 Aplikasi Sederhana Untuk Sistem Perpustakaan Digital
 
-Project ini saya buat untuk memenuhi project akhir kelas python PROA Digitalent
-
 Adapun fitur yang saya gunakan pada aplikasi ini yaitu :
   - Array Satu Dimensi
   - Eksekusi Kondisional If & Elif
@@ -13,10 +11,6 @@ Adapun fitur yang saya gunakan pada aplikasi ini yaitu :
   - File Handling Pop-Up
   - Time Sleep
   - GUI Streamlit
-
-Berikut Diagram Flowchart Aplikasi :
-
-![alt text]()
 
 
 
