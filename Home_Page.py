@@ -8,7 +8,7 @@ from PIL import Image
 st.set_page_config(page_title="Home Page", page_icon="📚", layout="centered")
 
 st.title(body="📚Selamat Datang Di Perpustakaan")
-st.title("📚PROA Digitalent")
+st.title("📚Minimalism")
 st.write("Berikut ini adalah daftar buku yang tersedia di perpustakaan kami")
 image = Image.open('./assets/images/1.jpg')
 image1 = Image.open('./assets/images/2.jpg')

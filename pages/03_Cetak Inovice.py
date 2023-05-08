@@ -40,7 +40,7 @@ with form3:
         denda = 5000 * totalHari
     
     if submitted:
-        st.success("Terimakasih sudah meminjam buku di perpustakaan PROA Digitalent! Jangan lupa ambil invoice-nya ya")
+        st.success("Terimakasih sudah meminjam buku di perpustakaan Minimalism! Jangan lupa ambil invoice-nya ya")
         st.balloons()
         for i in range(1):
             arynama.append(nama)
@@ -49,7 +49,7 @@ with form3:
             arytglkembali.append(tglkembali)
             sys.stdout = open("invoice-"+nama+"-"+str(tglpinjam)+".txt", "w")
             print('''
-                *********************  PERPUS PROA DIGITALENT  **********************
+                ************************  PERPUS MINIMALISM  ************************
                 ************ Sistem Peminjaman Buku Perpustakaan Digital ************
                 ************************ Invoice Peminjaman *************************
                 ''')

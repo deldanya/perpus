@@ -23,7 +23,7 @@ with form1:
         submitted = st.form_submit_button(label="Submit")
 
         if submitted:
-            st.success("Terimakasih sudah meminjam buku di perpustakaan PROA Digitalent! Jangan lupa simpan struk peminjaman ya")
+            st.success("Terimakasih sudah meminjam buku di perpustakaan Minimalism! Jangan lupa simpan struk peminjaman ya")
             st.balloons()
             for i in range(1):
                 arynama.append(nama)
@@ -32,7 +32,7 @@ with form1:
                 arytglkembali.append(tglkembali)
                 sys.stdout = open("struk-"+nama+"-"+str(tglpinjam)+".txt", "w")
                 print('''
-                    *********************  PERPUS PROA DIGITALENT  **********************
+                    ************************  PERPUS MINIMALISM  ************************
                     ************ Sistem Peminjaman Buku Perpustakaan Digital ************
                     ************************ Struk Bukti Pinjam *************************
                     ''')
